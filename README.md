@@ -45,6 +45,30 @@
 
 ###
 
-<h6 align="left">Hello World!!<br><br>I'm Siddesh, passionate about Computer Architecture, Memory Hierarchy, RTL Design, and Verification methodologies, with extensive hands-on experience.<br><br>↠ Developed design verification test plans and generated 100+ test cases for RV32IMFDAC on SHAKTI SoC at Vyoma Systems, IIT Madras. <br>↠ Also worked on RISC-V Vector Processors at IITM, exploring, debugging, and documenting open-source test generators to generate reconfigurable assembly tests.<br>↠ Worked on accelerator : ALRESCHA at CASL, UMD in Verillog HDL, optimizing sparse matrix computations for a 20% throughput improvement.<br>↠ Implemented concepts of Cache Coherency, DDR Memory Scheduler, and Clock Domain Crossing (CDC) synchronization in Asynchronous FIFO using SystemVerilog HDL. <br>↠ Executed verification strategies, including functional coverage, code coverage, case-analysis and UVM framework-based verification.<br><br>And diving deeper ...</h6>
+### Hello World!! 👋  
+
+### I'm Siddesh  
+
+Passionate about **Computer Architecture, Memory Hierarchy, RTL Design, and Verification methodologies**, with extensive hands-on experience.  
+
+### 🔹 Experience & Projects  
+
+#### 🚀 Design Verification (RV32IMFDAC on SHAKTI SoC) | Vyoma Systems, IIT Madras  
+- Developed **design verification test plans** and generated **100+ test cases** for RV32IMFDAC on SHAKTI SoC.  
+
+#### 🔍 RISC-V Vector Processors | IIT Madras  
+- Explored, debugged, and documented **open-source test generators** to create **reconfigurable assembly tests**.  
+
+#### ⚡ Hardware Accelerator: ALRESCHA | CASL, UMD  
+- Designed in **Verilog HDL**, optimized **sparse matrix computations**, achieving a **20% throughput improvement**.  
+
+#### 🏗 SystemVerilog Implementations  
+- Worked on **Cache Coherency, DDR Memory Scheduler**, and **Clock Domain Crossing (CDC) synchronization** in **Asynchronous FIFO**.  
+
+#### 🛠 Verification Strategies  
+- Executed **functional coverage, code coverage, case-analysis**, and **UVM framework-based verification**.  
+
+### 🔍 And diving deeper... 🚀  
+
 
 ###
