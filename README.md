@@ -34,8 +34,8 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sidshx/Sidshx/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sidshx/Sidshx/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sidshx/Sidshx/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sidshx/Sidshx/output/snake.svg" />
   <img src="https://raw.githubusercontent.com/Sidshx/Sidshx/output/snake.svg" alt="GitHub Activity Snake" />
 </picture>
 
