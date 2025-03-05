@@ -51,7 +51,7 @@
 
 Passionate about **Computer Architecture, Memory Hierarchy, RTL Design, and Verification methodologies**, with extensive hands-on experience.  
 
-### 🔹 Experience & Projects  
+### 🔹 Experience 
 
 #### 🚀 Design Verification (RV32IMFDAC and Vector on SHAKTI SoC) | Vyoma Systems, IIT Madras  
 - Developed **design verification test plans**, generating **500+ assembly test cases** for RV32IMFDAC on SHAKTI SoC.  
@@ -59,9 +59,5 @@ Passionate about **Computer Architecture, Memory Hierarchy, RTL Design, and Veri
 
 #### ⚡ Hardware Accelerator: ALRESCHA | CASL, UMD  
 - Designed in **Verilog HDL**, optimized **sparse matrix computations**, achieving a **20% throughput improvement**.  
-
-#### 🏗 SystemVerilog Implementations & 🛠 Verification Strategies  
-- Worked on **Cache Coherency, DDR Memory Scheduler**, and **Clock Domain Crossing (CDC) synchronization** in **Asynchronous FIFO**.  
-- Executed **functional coverage, code coverage, case-analysis**, and **UVM framework-based verification**. 
 
 🔍 And diving deeper... 🚀  
