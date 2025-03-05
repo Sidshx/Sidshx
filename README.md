@@ -44,20 +44,20 @@
 </picture>
 
 ###
-
-### Hello World!! 👋  
-
-### I'm Siddesh  
+```
+Hello World!! 👋  
+I'm Siddesh  
 
 Passionate about **Computer Architecture, Memory Hierarchy, RTL Design, and Verification methodologies**, with extensive hands-on experience.  
 
-### 🔹 Experience 
+🔹 Experience 
 
-#### 🚀 Design Verification (RV32IMFDAC and Vector on SHAKTI SoC) | Vyoma Systems, IIT Madras  
+🚀 Design Verification (RV32IMFDAC and Vector on SHAKTI SoC) | Vyoma Systems, IIT Madras  
 - Developed **design verification test plans**, generating **500+ assembly test cases** for RV32IMFDAC on SHAKTI SoC.  
 - Explored RV-Vector extension, debugged, and documented **open-source test generators**, creating **reconfigurable assembly tests**.
 
-#### ⚡ Hardware Accelerator: ALRESCHA | CASL, UMD  
+⚡ Hardware Accelerator: ALRESCHA | CASL, UMD  
 - Designed in **Verilog HDL**, optimized **sparse matrix computations**, achieving a **20% throughput improvement**.  
 
 🔍 And diving deeper... 🚀  
+```
